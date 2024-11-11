@@ -5,9 +5,9 @@
 
 ## Universidad
 
-[UFC]([https://www.udistrital.edu.co/inici](https://www.ufc.br/)o) - Universidad Federal do Ceará
+[UFC](https://www.ufc.br/) - Universidad Federal do Ceará
 
-[UFC]([https://facingenieria.udistrital.edu.co/maestria-ciencias-informacion/index.php/](https://mmq.ufc.br/pt/)) - Mestrado em Modelagem e Métodos Quantitativos
+[MMQ](https://mmq.ufc.br/pt/) - Mestrado em Modelagem e Métodos Quantitativos
 
 
 
