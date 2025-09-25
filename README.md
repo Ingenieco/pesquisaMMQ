@@ -4,11 +4,9 @@
 ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![ArcGIS](https://img.shields.io/badge/ArcGIS-2C7AC3?&style=for-the-badge&logo=arcgis&logoColor=fff)
 ---
-## Universidad
+## Universidad Federal do Ceará - ([UFC](https://www.ufc.br/))
 
-[UFC](https://www.ufc.br/) - Universidad Federal do Ceará
-
-[MMQ](https://mmq.ufc.br/pt/) - Mestrado em Modelagem e Métodos Quantitativos
+Mestrado em Modelagem e Métodos Quantitativos - ([MMQ](https://mmq.ufc.br/pt/))
 ---
 
 
