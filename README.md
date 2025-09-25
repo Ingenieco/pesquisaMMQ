@@ -14,10 +14,10 @@
 ## Conteúdo
 
  - [Dissertação (.pdf)]()
+ - [Scripts empregados](https://github.com/Ingenieco/pesquisaMMQ/tree/main/Scripts)
  - [Arquitetura Yolov11]()
- - [Imagens rotuladas]()
+ - [Modelos (imagens, labels)]()
  - [Imagens teste]()
- - [Modelos]()
  - [Implantação web]()
  
 
