@@ -17,6 +17,7 @@ Mestrado em Modelagem e Métodos Quantitativos - ([MMQ](https://mmq.ufc.br/pt/))
  - [Imagens rotuladas]()
  - [Imagens teste]()
  - [Modelos]()
+ - [Implantação web]()
  
 
 ## Autores
