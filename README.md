@@ -6,13 +6,10 @@
 
 ## Universidad Federal do Ceará - ([UFC](https://www.ufc.br/))
 
-Mestrado em Modelagem e Métodos Quantitativos - ([MMQ](https://mmq.ufc.br/pt/))
+## Mestrado em Modelagem e Métodos Quantitativos - ([MMQ](https://mmq.ufc.br/pt/))
+---
 
------
-### Aplicativo web ([MMQ](https://detector-vendedores-ambulantes-aerialimages.streamlit.app/)) 👈
-
-
-
+### Aplicativo web ([Link](https://detector-vendedores-ambulantes-aerialimages.streamlit.app/)) 👈
 
 ## Conteúdo
 
