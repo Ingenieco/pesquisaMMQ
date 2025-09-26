@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 1
+names: ['vendedor_ambulante']
+
+roboflow:
+  workspace: piscinas-2is0y
+  project: vendedores_ambulantes_pesquisa-pwao5
+  version: 8
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/piscinas-2is0y/vendedores_ambulantes_pesquisa-pwao5/dataset/8
