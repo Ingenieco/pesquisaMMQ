@@ -1,0 +1,12 @@
+streamlit>=1.36
+roboflow
+opencv-python-headless
+numpy
+geopandas
+rasterio
+shapely
+pyproj
+matplotlib
+contextily
+pillow
+requests
